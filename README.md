@@ -1,6 +1,14 @@
 **Marketing Spend Optimization** 
 
+**Business Impact of Marketing Budget Optimization**
 
+Increase product conversions: Marketing Budget Optimization leads to righ user targeting through right channels/assets which leads to better conversions.
+
+Increase revenue: Increased conversions(as mentioned in point above) will lead to more revenue or buyer engagement. For example, if the company is able to target a user who is more active on Instagram, chances are more that he/she will click on the Ad and add the product to cart. So overall probability of an order increases and hence the revenue.
+
+Improve budget allocation: Over budgeting on non-efficient channels lead to waste of marketing money without getting enough revenue.
+
+Improve Customer Acquisition Cost: Customer Acquisition Cost(CAC) improves if right targeting channels are used for a customer often leading to better repeat rates as well.
 ---
 
 ## 1) Problem Type
