@@ -247,8 +247,9 @@ dtype: float64
 
 **Takeaway across models:** `Lead Owner` and `Marketing Source` are consistently the top drivers; temporal signals (`hour_of_day`, `day_of_week`) and the `student` flag contribute moderately; `Creation Source` is lowest among the six features.
 
-
+---
 **Business Impact of Marketing Budget Optimization**
+---
 
 Increase product conversions: Marketing Budget Optimization leads to righ user targeting through right channels/assets which leads to better conversions.
 
@@ -257,7 +258,6 @@ Increase revenue: Increased conversions(as mentioned in point above) will lead t
 Improve budget allocation: Over budgeting on non-efficient channels lead to waste of marketing money without getting enough revenue.
 
 Improve Customer Acquisition Cost: Customer Acquisition Cost(CAC) improves if right targeting channels are used for a customer often leading to better repeat rates as well.
----
 
 
 
